@@ -3,7 +3,7 @@ Hello Friends <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 ##!! Welcome to my Github Profile !!##
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" >
-my name is Herlian Aliyasa student in... where I study doesn't matter</br>
+my name is Herlian Aliyasa student in... </br>where I study doesn't matter</br>
 my home in indonesia 🇮🇩
 </br>
 still learning:</br>
